@@ -1,5 +1,6 @@
 import { config } from 'seyfert';
-// if you comment this, the code executes normally
+
+// if you comment this line, the code executes normally
 import 'jsr:@std/dotenv/load';
 // works in v1.46.3
 
